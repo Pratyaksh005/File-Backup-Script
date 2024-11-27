@@ -65,9 +65,8 @@ file-backup-utility/
 ---
 
 ## Screenshots
+<img width="724" alt="Gui" src="https://github.com/user-attachments/assets/3c6f2f90-2580-4088-a6ca-ee66b3a3c419">
 
-### Main Window
-![Main Window](screenshot-main-window.png)
 ---
 
 ## Known Issues
